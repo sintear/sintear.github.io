@@ -1,0 +1,9 @@
+.banner { position: relative; overflow: auto; }
+    .banner li { list-style: none; }
+        .banner ul li { float: left; }
+
+
+#fh5co-home .text-inner .row div{
+    padding-top:16px;
+    background-color: rgba(255,255,255,0.7)
+}
